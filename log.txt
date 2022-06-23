@@ -1,0 +1,11 @@
+17/04/2022 19:09:03 Latte $2.0 CASH
+21/04/2022 17:55:28 Capuccino $2.0 CARD
+21/04/2022 18:33:52 Latte $2.0 Mastercard
+21/04/2022 20:19:46 Capuccino $2.0 VISA
+21/04/2022 20:20:31 Latte $2.0 Visa
+21/04/2022 20:21:19 Decaf $2.0 Mastercard
+21/04/2022 20:21:33 Black $2.0 CASH
+22/04/2022 14:26:43 Capuccino $2.0 CASH
+22/04/2022 14:26:55 Capuccino $2.0 Mastercard
+22/04/2022 14:50:08 Test $3.0 Mastercard
+24/04/2022 17:18:18 Capuccino $1.5 CASH

@@ -1,0 +1,5 @@
+Decaf,2.50
+Latte,2.75
+Black,2.00
+Capuccino,1.50
+Test,3.00
